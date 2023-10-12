@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sathiskumar30/fetching.git/static/css/main.6a648c75.css",
+    "main.js": "/sathiskumar30/fetching.git/static/js/main.075a4e98.js",
+    "index.html": "/sathiskumar30/fetching.git/index.html",
+    "main.6a648c75.css.map": "/sathiskumar30/fetching.git/static/css/main.6a648c75.css.map",
+    "main.075a4e98.js.map": "/sathiskumar30/fetching.git/static/js/main.075a4e98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a648c75.css",
+    "static/js/main.075a4e98.js"
+  ]
+}
